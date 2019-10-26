@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Select Design Labs
+title: SELECT DESIGN LABS
 email: chinjazz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adam Chin's technical domicile.  Peruse at you leisure, and ask questions
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Adam Stuart Chin"
+  name   : "Adam Chin"
   avatar : "/assets/images/me.jpg"
-  bio    : "Engineering Tactile Mobile Solutions"
+  bio    : "Mobile Solutions Engineer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
