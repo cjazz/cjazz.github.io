@@ -3,6 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Since the Early Day's of the Macintosh, and more significantly the inception of NeXTSTEP, I've been a tech proponent
+of OO and various languanges supporting it.  Having dabbled in Objective C on NeXTSTEP back in the day, I was pleasantly
+surprised to see it again in Xcode for iOS.    When employed at MCI WorldCom (LDDS Metromedia in the advanced technology devision), 
+we had the luxury of experimenting with many early PDA type devices including Apple Newton, Sony devices, etc.  
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Fast forward multiple years and experience under my belt with Web, PHP, .ASP, ASP.NET,.NET, along comes the iPhone.
+It was a truly exciting time back in 2011 diving back into Objective C and Xcode.  
+
+And now there's Swift!
+
+Without history where would we be?
+
+And now, attribution where it's due:
+
+Steve Jobs for pushing hard and keeping his dreams alive
+Steve Wosniac for the Macintosh
+Tim Berners-Lee - For the World wide web
+Bill Gates & MS Teams- Everything Windows, PC and .NET, C#
+Rasmus Lerdorf - Designer of PHP
+Chris Lattner - Swift Language
