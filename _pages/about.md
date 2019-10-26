@@ -13,8 +13,6 @@ It was a truly exciting time back in 2011 diving back into Objective C and Xcode
 
 And in 2014, Chris Lattner @ Apple introduced **[Swift](https://swift.org)** at WWDC.  It was a great experience attending that year!
 
-Without history where would we be?
-
 And now, **attribution** where it's due:
 
 Steve Jobs for pushing hard and keeping his dreams alive
@@ -23,3 +21,5 @@ Tim Berners-Lee - For the World wide web
 Bill Gates & MS Teams- Everything Windows, PC and .NET, C#
 Rasmus Lerdorf - Designer of PHP
 Chris Lattner - Swift Language
+
+***Without history where would we be?***
