@@ -11,11 +11,11 @@ we had the luxury of experimenting with many early PDA type devices including Ap
 Fast forward multiple years and experience under my belt with Web, PHP, .ASP, ASP.NET,.NET, along comes the iPhone.
 It was a truly exciting time back in 2011 diving back into Objective C and Xcode.  
 
-And now there's Swift!
+And in 2014, Chris Lattner @ Apple introduced **[Swift](https://swift.org)** at WWDC.  It was a great experience attending that year!
 
 Without history where would we be?
 
-And now, attribution where it's due:
+And now, **attribution** where it's due:
 
 Steve Jobs for pushing hard and keeping his dreams alive
 Steve Wosniac for the Macintosh
