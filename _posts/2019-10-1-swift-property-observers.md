@@ -10,13 +10,6 @@ tags:
 The Swift language introduced in 2014 has grown and continues to evolve (open source).
 As stated on the [About](https://swift.org/about/) page, one of it's goals is to make it easier to write code.   Having written Swift code for a number of years now, this is definitely the case.   
 
-I've written my share of .NET in the context of WPF apps, and some web, and frankly
-I wouldn't compare them or their underlying frameworks.  
-
-Swift is defintiely a modern language if comparing it to Objective C.
-
-Likes:
-
 **Property Observers**
 In the context of user interactivity, you can leverage Property Observers to 
 control state based on values being set.  
@@ -74,7 +67,7 @@ Example:
 
 ![](https://cjazz.github.io/assets/images/ExampleLogin.jpg)
 
-Here's a good source for further info at [NsHipster.com](https://nshipster.com/swift-property-observers/)
+And there's more regarding Property Observers. Here's a good source for more: [NsHipster.com](https://nshipster.com/swift-property-observers/)
 
 
 
