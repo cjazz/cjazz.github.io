@@ -1,39 +1,77 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Swift"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - Swift
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The Swift language introduced in 2014 has grown and continues to evolve (open source).
+As stated on the [About](https://swift.org/about/) page, one of it's goals is to make it easier to write code.   Having written Swift code for a number of years now, this is definitely the case.   
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I've written my share of .NET in the context of WPF apps, and some web, and frankly
+I wouldn't compare them or their underlying frameworks.  
 
-Jekyll also offers powerful support for code snippets:
+Swift is defintiely a modern language if comparing it to Objective C.
 
+Likes:
+
+**Property Observers**
+In the context of user interactivity, you can leverage Property Observers to 
+control state based on values being set.  
+
+Example - A login view controller where the login button is disabled until 
+username and password are both entered.
 
 ```swift
-class GameViewController: UIViewController {
-	override func viewDidLoad() {
-		super.viewDidLoad()
-		if let view = self.view as! SKView? {
-            if let scene = SKScene(fileNamed: "GameScene") {
-                scene.scaleMode = .fill
-                view.presentScene(scene)
-            }
-            view.ignoresSiblingOrder = true
-            view.showsFPS = true
-            view.showsNodeCount = true
+import UIKit
+
+class ViewController: UIViewController {
+
+    @IBOutlet weak var userNameField: UITextField!
+    @IBOutlet weak var passwordField: UITextField!
+    
+    @IBOutlet weak var loginButton: UIButton!
+    
+    var userName: String? {
+        didSet{
+            checkFields()
         }
+    }
+    
+    var password: String? {
+        didSet{
+            checkFields()
+        }
+    }
+    
+    func checkFields (){
+        guard let _ = userName else {return}
+        guard let _ = password else { return }
+        loginButton.isEnabled = true
+        loginButton.backgroundColor = UIColor.systemBlue
+    }
+    @IBAction func enteredUserName(_ sender: UITextField) {
+        userName = sender.text
+        checkFields()
+    }
+    
+    @IBAction func enteredPassword(_ sender: UITextField) {
+        password = sender.text
+        checkFields()
+    }
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        loginButton.isEnabled = false
+        loginButton.backgroundColor = UIColor.lightGray
+    }
 }
+
 ```
+Here's a good source for further info at [NsHipster.com](https://nshipster.com/swift-property-observers/)
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
