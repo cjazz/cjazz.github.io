@@ -20,9 +20,9 @@ Airbnb provided a long list of things that didn't go well.
 
 These few stand out to me:
 
-• Initialization time - Slow launches are huge no no.
-• Gestures
-• Crash Monitoring / Troublesome crashes
+* Initialization time - Slow launches are huge no no.
+* Gestures
+* Crash Monitoring / Troublesome crashes
 
 When it comes down to personal preference, as a developer, I find it optimal to have fewer layers of abstraction.  
 Support wise, it's easier to develop, revise, debug, and deploy a native app.  
