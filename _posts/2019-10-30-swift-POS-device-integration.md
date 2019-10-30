@@ -17,4 +17,4 @@ From a best practices standpoint I recommend making a quick app such as this one
 
 As you get to know the hardware vendors Framwork/.lib, you can add more bells and whistles.
 
-![](https://github.com/cjazz/DTDevDemo/blob/master/infinea-mpos-flat.png)
+![](https://cjazz.github.io/assets/images/infinea-mpos-flat.png)
