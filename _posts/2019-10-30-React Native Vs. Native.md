@@ -18,9 +18,9 @@ or go completely Native. </span>
 
 <span style="font-size:12pt">These few stand out to me:</span>
 
-* Initialization time - Slow launches are huge no no.
-* Gestures
-* Crash Monitoring / Troublesome crashes
+<span style="font-size:12pt">• Initialization time - Slow launches are huge no no.<br>
+• Gestures<br>
+• Crash Monitoring / Troublesome crashes<br></span>
 
 <span style="font-size:12pt">When it comes down to personal preference, as a developer, I find it optimal to have fewer layers of abstraction.  Support wise, it's easier to develop, revise, debug, and deploy a native app. </span>
 
