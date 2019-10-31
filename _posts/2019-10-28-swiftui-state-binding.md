@@ -7,10 +7,10 @@ tags:
   - SwiftUI
 ---
 
-With my prior post on Property Observers, I thought it apropos to demonstrate the same functionality with SwiftUI
+<span style="font-size:12pt">With my prior post on Property Observers, I thought it apropos to demonstrate the same functionality with SwiftUI</span>
 
-Example - A login view controller where the login button is disabled until 
-username and password are both entered.
+<span style="font-size:12pt">Example - A login view controller where the login button is disabled until 
+username and password are both entered.</span>
 
 
 Example:
@@ -65,7 +65,7 @@ struct ContentView: View {
 }
 ```
 
-Minus the additional adornments, SwiftUI is a bit less coding.  (I couldn't help myself)..
+<span style="font-size:12pt">Minus the additional adornments, SwiftUI is a bit less coding.  (I couldn't help myself)..</span>
 
 Example:
 
