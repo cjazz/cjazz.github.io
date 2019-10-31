@@ -22,7 +22,7 @@ HushBox w/(sm)
 
 ```
 <video width="320" height="240" controls>
-  <source src="HushBox_UI.mov" type="video/mp4">
+  <source src="https://github.com/cjazz/cjazz.github.io/blob/master/assets/images/HushBox_UI.mov" type="video/mp4">
 </video>
 ```
 
