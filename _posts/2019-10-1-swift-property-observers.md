@@ -7,7 +7,7 @@ tags:
   - Swift
 ---
 
-<span style="font-size:12pt">The Swift language introduced in 2014 has grown and continues to evolve (open source).
+<span style="font-size:8pt">The Swift language introduced in 2014 has grown and continues to evolve (open source).
 As stated on the [About](https://swift.org/about/) page, one of it's goals is to make it easier to write code.   Having written Swift code for a number of years now, this is definitely the case.   
 
 **Property Observers**
