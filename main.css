@@ -34,8 +34,8 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto; 
     font-size: .4em;
+    margin: 20px auto; 
 }
 
 ul.posts li {
