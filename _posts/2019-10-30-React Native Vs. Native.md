@@ -14,13 +14,15 @@ or go completely Native. </span>
 
 <span style="font-size:12pt">In fact here's an [article](https://adtmag.com/articles/2018/07/10/abandon-react-native.aspx) on why Airbnb, and Udacity both took bets on React Native and eventually abandoned it.</span>
 
-<span style="font-size:12pt">Airbnb provided a long list of things that didn't go well.  </span>
+<span style="font-size:12pt">Airbnb provided a long list of things that didn't go well. </span>
 
 <span style="font-size:12pt">These few stand out to me:</span>
 
-<span style="font-size:12pt">• Initialization time - Slow launches are huge no no.<br>
-• Gestures<br>
-• Crash Monitoring / Troublesome crashes<br></span>
+<span style="font-size:12pt">• Initialization time - Slow launches are huge no no.</span>
+
+<span style="font-size:12pt">• Gestures</span>
+
+<span style="font-size:12pt">• Crash Monitoring / Troublesome crashes</span>
 
 <span style="font-size:12pt">When it comes down to personal preference, as a developer, I find it optimal to have fewer layers of abstraction.  Support wise, it's easier to develop, revise, debug, and deploy a native app. </span>
 
