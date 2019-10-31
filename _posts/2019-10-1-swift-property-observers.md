@@ -7,15 +7,15 @@ tags:
   - Swift
 ---
 
-<span style="font-size:8pt">The Swift language introduced in 2014 has grown and continues to evolve (open source).
-As stated on the [About](https://swift.org/about/) page, one of it's goals is to make it easier to write code.   Having written Swift code for a number of years now, this is definitely the case.   
+<span style="font-size:12pt">The Swift language introduced in 2014 has grown and continues to evolve (open source).
+As stated on the [About](https://swift.org/about/) page, one of it's goals is to make it easier to write code.   Having written Swift code for a number of years now, this is definitely the case.   </span>
 
-**Property Observers**
+<span style="font-size:12pt">**Property Observers**
 In the context of user interactivity, you can leverage Property Observers to 
-control state based on values being set.  
+control state based on values being set.  </span>
 
-Example - A login view controller where the login button is disabled until 
-username and password are both entered.
+span style="font-size:12pt">Example - A login view controller where the login button is disabled until 
+username and password are both entered.</span>
 
 ```swift
 import UIKit
@@ -67,7 +67,7 @@ Example:
 
 ![](https://cjazz.github.io/assets/images/ExampleLogin.jpg)
 
-And there's more regarding Property Observers. Here's a good source for more: [NsHipster.com](https://nshipster.com/swift-property-observers/)
+<span style="font-size:12pt">And there's more regarding Property Observers. Here's a good source for more: [NsHipster.com](https://nshipster.com/swift-property-observers/)</span>
 
 
-</span>
+
