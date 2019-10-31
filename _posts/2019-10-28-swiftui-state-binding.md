@@ -13,7 +13,7 @@ tags:
 username and password are both entered.</span>
 
 
-Example:
+<span style="font-size:12pt">Example:</span>
 
 ```swift
 struct ContentView: View {
