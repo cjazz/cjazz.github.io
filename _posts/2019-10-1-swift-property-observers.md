@@ -14,7 +14,7 @@ As stated on the [About](https://swift.org/about/) page, one of it's goals is to
 In the context of user interactivity, you can leverage Property Observers to 
 control state based on values being set.  </span>
 
-span style="font-size:12pt">Example - A login view controller where the login button is disabled until 
+<span style="font-size:12pt">Example - A login view controller where the login button is disabled until 
 username and password are both entered.</span>
 
 ```swift
