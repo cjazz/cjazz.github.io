@@ -20,11 +20,8 @@ This kind of treatment took a while to get right, however I'm quite proud of it 
 
 HushBox w/(sm)
 
-```
-<video width="320" height="240" controls>
-  <source src="https://github.com/cjazz/cjazz.github.io/blob/master/assets/images/HushBox_UI.mov" type="video/mp4">
-</video>
-```
+![](https://github.com/cjazz/cjazz.github.io/blob/master/assets/images/HBScreen1.png)
+
 
 I've always been a fan of using transparencies and blur effects to provide focus on icons/text in UI design/UX.  You can see many examples of this in the current iOS 13.    There's evidence of (sm) in iOS, and most definietly in macOS today,
 but as tech evolves, new concepts emerge.
