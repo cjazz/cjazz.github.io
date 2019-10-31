@@ -20,24 +20,25 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: .7em;
+    font-size: 18pt;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: .4em;
+    font-size: 12pt;
     line-height: 1em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .5em;
+    font-size: 16pt;
 }
 
 ul.posts { 
-    font-size: 9px;
+    font-size: 9pt;
     margin: 20px auto; 
 }
 
 ul.posts li {
+    font-size: 12pt;
     list-style: none;
 }
