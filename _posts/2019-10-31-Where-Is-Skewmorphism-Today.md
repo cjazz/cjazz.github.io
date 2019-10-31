@@ -1,5 +1,5 @@
 ---
-title: "Skewmorphism Then, and Now"
+title: "Skewmorphism"
 date: 2019-10-31
 categories:
   - blog
@@ -20,14 +20,16 @@ This kind of treatment took a while to get right, however I'm quite proud of it 
 
 HushBox w/(sm)
 
-![](https://github.com/cjazz/cjazz.github.io/blob/master/assets/images/HBScreen1.png)
+![](https://cjazz.github.io/assets/images/HBScreen1.png)
 
+Contact me if you'd like to see how this was accomplished.
 
 I've always been a fan of using transparencies and blur effects to provide focus on icons/text in UI design/UX.  You can see many examples of this in the current iOS 13.    There's evidence of (sm) in iOS, and most definietly in macOS today,
 but as tech evolves, new concepts emerge.
 
 With VR advances, will a mobile apps OS get revamped top to bottom?  Most likely not, due to the cpu demand.
 However, there are speculations swirling around the web that Anisotropism may be a reality some day.
+
 
 Here's a blog on the subject: https://www.macobserver.com/news/erasmus-quantum-leap-ui/
 
