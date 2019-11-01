@@ -22,11 +22,11 @@ This kind of treatment took a while to get right, however I'm quite proud of it 
 
 HushBox w/(sm)
 
-Image:
-
 ![](https://cjazz.github.io/assets/images/HBScreen1.png)
 
-Video:
+Video
+
+Please Click or tap the right corner pop out icon - (a limitation with iframes in MD files):
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
