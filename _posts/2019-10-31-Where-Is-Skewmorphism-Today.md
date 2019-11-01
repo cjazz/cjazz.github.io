@@ -20,7 +20,13 @@ This kind of treatment took a while to get right, however I'm quite proud of it 
 
 HushBox w/(sm)
 
+Image:
+
 ![](https://cjazz.github.io/assets/images/HBScreen1.png)
+
+Video:
+
+![](https://drive.google.com/open?id=1uwrtxsh3sMbWYygEjFaj1KovNcveFFhO)
 
 Contact me if you'd like to see how this was accomplished.
 
