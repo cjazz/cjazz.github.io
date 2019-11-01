@@ -17,7 +17,7 @@ Wow, that's a mouth full... I'll reference it as (sm) for the rest of this post.
 
 If you've had a "Smart" phone since the dawn of the Mobile era till now, you've probably noticed the way Icons, and screens looked in applications (more life like, or dimensional).    You've probably also noticed that (sm) went away over time in favor of a more flat looking experience.
 
-The first app I published ro the App Store in 2012, HushBox, presents the user interface inside a wooden box with items inside it.  This kind of treatment of varying transparancies took a while to get right, however I'm quite proud of from a design stand point.
+The first app I published ro the App Store in 2012, HushBox, presents the user interface inside a wooden box with items inside it.  This kind of treatment of varying transparancies took a while to get right, however I'm quite proud of it from a design stand point.
 
 HushBox w/(sm)
 
