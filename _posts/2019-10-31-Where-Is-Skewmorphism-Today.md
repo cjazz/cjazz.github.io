@@ -1,12 +1,14 @@
 ---
 title: "Skewmorphism"
 date: 2019-10-31
+driveId: 1uwrtxsh3sMbWYygEjFaj1KovNcveFFhO/preview
 categories:
   - blog
   - UX
 tags:
   - Skewmorphism
   - HushBox
+
 ---
 
 ## Skewmorphism 
@@ -26,7 +28,7 @@ Image:
 
 Video:
 
-![](https://drive.google.com/open?id=1uwrtxsh3sMbWYygEjFaj1KovNcveFFhO)
+{% include googleDrivePlayer.html id=page.driveId %}
 
 Contact me if you'd like to see how this was accomplished.
 
