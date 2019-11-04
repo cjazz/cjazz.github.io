@@ -43,7 +43,7 @@ From a pure development stand point, it's in your best interest to stay on top o
 How you may ask?
 
 1. Objectively Check out new Tech stacks, Frameworks and Git Repos of others
-2. WWDC - Each year, Watch all the videos - Or better yet go if you can, but if you go, watch all the videos because if  you go you'll un-doubtly mis sessions.
+2. WWDC - Each year, Watch all the videos
 3. Learn all the time
 4. Objectively listen to others
 5. Objectively listen to yourself
