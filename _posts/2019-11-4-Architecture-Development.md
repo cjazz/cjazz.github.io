@@ -29,7 +29,9 @@ As an iOS Developer, I firmly believe you'll need to encompass skills from both 
 
 From an Architecture stand point, you'll need to validate the viability of the **New**, by spinning up those Git repo examples, subplant them in a feature branch of your current work, push the boundaries where you see fit (for your needs)..
 
-You'll then have the opportunitiy to suggest these new solutions where applicable.  Big plus to your team/company, etc..  **You do want to be a Rock Star right?**
+You'll then have the opportunitiy to suggest these new solutions where applicable.  Big plus to your team/company, etc..  
+
+**You do want to be a Rock Star right?**
 
 This is important even though you might be doing the same kind of coding tasks day in and out.
 
