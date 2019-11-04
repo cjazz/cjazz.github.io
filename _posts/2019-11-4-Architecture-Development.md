@@ -9,8 +9,6 @@ tags:
   - Development
 ---
 
-## Thoughts on Mobile Architechts / Developers 
-
 ![](https://cjazz.github.io/assets/images/clipartwiki.com-architect-clipart-1437482.png)
 
 As an iOS Developer, Engineer, Architecht, I've learned a few things
