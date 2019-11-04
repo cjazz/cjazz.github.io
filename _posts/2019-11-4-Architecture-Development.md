@@ -42,7 +42,7 @@ Why?  What happens of the company you work for which was Angel funded runs out o
 
 From a pure development stand point, it's in your best interest to stay on top of all the relevant new Apple framework additions, advances in techniques, idioms, etc.  This is outside the realm of your day to day coding at your job.   Call it *personal tech insurance* if you'd like.
 
-How you may ask?
+How do I stay on top, you may ask?
 
 1. Objectively Check out new Tech stacks, Frameworks and Git Repos of others
 2. WWDC - Each year, Watch all the videos
