@@ -20,7 +20,7 @@ First let's draw a distinction between Architechts and Developers..
 
 A number of years ago, I was the manager of a few "Production Development" teams.  
 These teams would receive input from Arctitects, who basically wrote functional prototypes and sometimes tech specs.  The Production Dev teams would utilize those artifacts and would develop the final solution.
-The big difference here was the prod developers would prepare prodution ready code.  Meaning that the code could withstand the rigors of being called many orders of magnitue without degredation (into the millions).  
+The big difference here was the prod developers would prepare production ready code.  Meaning that the code could withstand the rigors of being called many orders of magnitue without degredation (into the millions).  
 
 ***This illustrates a classical example between a software Architecht and Developer***
 
