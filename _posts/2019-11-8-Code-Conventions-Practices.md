@@ -36,7 +36,7 @@ In the world of Swift here are a few Style guides worth looking at:
 Notice that I didn't use "Best Practices"?   Intentional because I'm of the mind set that the 
 "best" part of the phrase is redundant.
 
-Speaking of redundant, when coding, developing, engineering, one tenant is to avoid redundancy.
+Speaking of redundant, when coding, developing, engineering, one tenant is to avoid it at all costs.
 With this in mind I almost always abstract away a color scheme to use and re-use throught an app.   In Swift, this is a piece of cake (or if you like pie more).
 
 Here's the contents of a file called AppStyles.swift for example :
