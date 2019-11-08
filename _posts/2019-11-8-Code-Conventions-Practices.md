@@ -1,5 +1,5 @@
 ---
-title: "Code Convention, Practices, Swift ViewModifiers"
+title: "Code Convention, Practices, SwiftUI ViewModifiers"
 date: 2019-11-08
 categories:
   - blog
