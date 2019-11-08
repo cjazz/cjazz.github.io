@@ -37,7 +37,7 @@ Notice that I didn't use "Best Practices"?   Intentional because I'm of the mind
 "best" part of the phrase should be a given.
 
 Speaking of redundant, when coding, developing, engineering, one tenant is to avoid it at all costs.
-With this in mind I almost always abstract away a color scheme to use and re-use throught an app.   In Swift, this is a piece of cake (or if you like pie more).
+With this in mind I almost always abstract away a color scheme to use and re-use throughout an app.   In Swift, this is a piece of cake (or if you like pie more).
 
 Here's the contents of a file called AppStyles.swift for example :
 
