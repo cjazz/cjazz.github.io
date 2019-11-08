@@ -1,6 +1,6 @@
 ---
 title: "Code Convention, Practices, Swift ViewModifiers"
-date: 2019-11-2019
+date: 2019-11-08
 categories:
   - blog
   - Code
