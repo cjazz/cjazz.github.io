@@ -110,9 +110,11 @@ struct ContentView: View {
 
 This is one brief example of code reuse and laying a foundation to build a consistent looking app.
 
-Note about colors setup.  You can change any of the colors for the buttons or background in **1** place.  
+Note about colors setup.  You can change any of the colors for the buttons or background in **1** place.    This is the tip of the ice burg so to speak.  If you had multiple apps that could 
+leverage this consistent presentation, you could make a static library or framwork to share
+across your app suite.
 
-Here's the sample Xcode project on my GitHub repo if you're so inclined.
+Here's the sample Xcode [project](https://github.com/cjazz/SimpleStyleExample) on my GitHub repo if you're so inclined.
 
 **Happy Coding!**
 
