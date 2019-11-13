@@ -11,11 +11,12 @@ tags:
 
 <span style="font-size:12pt">URLSession is like the bread and butter of many iOS Apps today.  Use of it has evolved over time in context of consuming JSON.  From leveraging JSONSerialization().jsonObject, to JSONDecoder() / JSONEncoder(), it's all part of the history in the iOS world.</span>
 
-<span style="font-size:12pt">Apple introduced Combine, a new Framework at [WWDC2019](https://developer.apple.com/videos/play/wwdc2019/722/).   
+<span style="font-size:12pt">Apple introduced Combine, a new Framework at [WWDC2019](https://developer.apple.com/videos/play/wwdc2019/722/).</span>   
 
-It can be used in a number of ways including making async netowork calls, and a few more rich use cases.</span>
+<span style="font-size:12pt">It can be used in a number of ways including making async netowork calls, and a few more rich use cases.</span>
 
-<span style="font-size:12pt">I've put together an app that demonstrates using Combine to make web calls (JSON consumption).</span>
+<span style="font-size:12pt">I've put together an app 
+that demonstrates using Combine to make web calls (JSON consumption).</span>
 
 ![](https://cjazz.github.io/assets/images/Swift-URLSession-Combine.png)
 
@@ -27,6 +28,6 @@ It can be used in a number of ways including making async netowork calls, and a 
 <span style="font-size:12pt">Here's the xcode [project](https://github.com/cjazz/Swift-URLSession-Combine)
 
 
-**Happy Coding!**
+<span style="font-size:12pt">**Happy Coding!**</span>
 
-More to come (my promise)
+<span style="font-size:12pt">More to come (my promise)</span>
