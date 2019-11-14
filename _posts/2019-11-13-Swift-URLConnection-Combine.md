@@ -13,7 +13,7 @@ tags:
 
 <span style="font-size:12pt">Apple introduced Combine, a new Framework at [WWDC2019](https://developer.apple.com/videos/play/wwdc2019/722/).</span>   
 
-<span style="font-size:12pt">It can be used in a number of ways including making async netowork calls, and a few more rich use cases.</span>
+<span style="font-size:12pt">It can be used in a number of ways including making async network calls, and a few more rich use cases.</span>
 
 <span style="font-size:12pt">I've put together an app 
 that demonstrates using Combine to make web calls (JSON consumption).</span>
