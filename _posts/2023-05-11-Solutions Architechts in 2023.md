@@ -53,13 +53,13 @@ Ultimately a Solutions Architect is a hands on developer (unless your organizati
 
 By contrast, in the spirit larger organizations, this article by a Microsoft CTO Architect (Michel Luescher) from 2022 is worth a a look: [What Kind of Architecht are you](https://www.cloudelicious.net/what-type-of-architect-are-you/)
 
-If operating in smaller organizations, or teams **Solutions Architechts** are developers.  Developers should think and behave like a Solutions Architects, or Mobile Solutions Architect given I specialize in Mobile...
+If operating in a smaller setting or team, **Solutions Architechts** are developers.  Developers should think and behave like a Solutions Architects.
 
 Either way, a title is just that, a title...As a Developer on any level, you would bring more value to an organization/company if thinking and acting out of the box, period.
 
 Note about the sample app:
 
-With Apple’s Natural Language API, I’m was able to provide the necessary  functionality with very little code. I literally wrote this in a few hours.
+With Apple’s Natural Language API, I was able to provide the necessary functionality with very little code.
 
 Swift language, SwiftUI, and Apple hardware / software advancments have been a joy to work with...
 
