@@ -20,7 +20,7 @@ Solutions Architecture has evolved over the years, and more companies want their
 
 Currently, I believe a Solutions Architect is someone who takes a goal and builds one or many viable prototypes for achieving that goal.
 
-It's **very** important to be able to produce prototypes quickly, without extra bells and whistles.  Stand alone or in your existing app.
+It's **very** important to be able to produce prototypes quickly, without extra bells and whistles.  Stand alone or in your existing apps.
 
 It all starts with a Mission statement from a **Product Owner**, or decision maker:
 
@@ -28,7 +28,7 @@ It all starts with a Mission statement from a **Product Owner**, or decision mak
 "Create a Chat interface that leveraged AI or ML
 to produce suggested Emoji’s based on what was being typed in the chat message, and allow that person to tap and insert the Emoji in the text message"
 
-Here's the working prototype:  https://github.com/cjazz/NatLangSentimentAnalysis
+Here's the working prototype on [GitHub](https://github.com/cjazz/NatLangSentimentAnalysis)
 
 With an **MVP** mind set (Minimal Viable Product), I produced a working prototype that demonstrated it.  No diagrams, no documentation, just a simple App to demo.  
 
@@ -51,9 +51,9 @@ Now the work really begins….
 
 Ultimately a Solutions Architect is a hands on developer (unless your organization is steeped in $$ and roles)
 
-In the spirit larger organizations, this article is worth a read: https://www.cloudelicious.net/what-type-of-architect-are-you/, by a Microsoft CTO Architect (Michel Luescher)
+By contrast, in the spirit larger organizations, this article by a Microsoft CTO Architect (Michel Luescher) from 2022 is worth a a look: [What Kind of Architecht are you](https://www.cloudelicious.net/what-type-of-architect-are-you/)
 
-If operating in smaller organizations **Solutions Architechts** are developers.  Developers should think and behave like a Solutions Architects, or Mobile Solutions Architect given I specialize in Mobile...
+If operating in smaller organizations, or teams **Solutions Architechts** are developers.  Developers should think and behave like a Solutions Architects, or Mobile Solutions Architect given I specialize in Mobile...
 
 Either way, a title is just that, a title...As a Developer on any level, you would bring more value to an organization/company if thinking and acting out of the box, period.
 
