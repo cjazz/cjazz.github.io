@@ -14,13 +14,13 @@ tags:
 ![](https://cjazz.github.io/assets/images/craiyon_211542_Software_Engineer.png)
 
 It’s been a while since I’ve posted my thoughts.  
-I usually have the best clarity thinking in retrospect base on my life experiences, so Let’s jump right in!
+I usually have the best clarity thinking in retrospect based on my life experiences, so Let’s jump right in!
 
-Solutions Architecture has evolved some over the years, and more an more companies want their  Developers to think and act like a Solutions Architects. The rise in popularity of DevOps, CICD, and the Full Stack developer has in part driven this sentiment.
+Solutions Architecture has evolved over the years, and more companies want their  Developers to think and act like Solutions Architects. The rise in popularity of DevOps, CI/CD, and the Full Stack developer has in part driven this sentiment.
 
-Currently, I believe a Solutions Architect is someone who takes a goal and determines one or many viable paths for achieving that goal.
+Currently, I believe a Solutions Architect is someone who takes a goal and builds one or many viable prototypes for achieving that goal.
 
-**It’s also **very** important to be able to produce a working prototype quickly, without extra bells and whistles.  Stand alone or in your existing app.**
+It's **very** important to be able to produce prototypes quickly, without extra bells and whistles.  Stand alone or in your existing app.
 
 It all starts with a Mission statement from a **Product Owner**, or decision maker:
 
